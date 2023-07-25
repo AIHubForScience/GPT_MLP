@@ -12,6 +12,12 @@ We addressed three tasks: text classification, named entity recongition, and ext
 
 Dataset used in this study is available, and unzip in your own directory.
 
+-text classification:
+
+-named entity recognition:
+
+-extractive question answering:
+
 
 ## Requirements
 
