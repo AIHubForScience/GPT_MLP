@@ -1,5 +1,5 @@
 <h1 align="center">GPT_MLP</h1>
-<h3 align="center">Benchmarking the Performance of GPT in Materials Language Processing</h3>
+<h3 align="center">Accelerating Materials Language Processing with GPT</h3>
 
 </p>
 
